@@ -1,0 +1,26 @@
+{
+  "name": "book.embassy.rs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Makefile",
+  "private": true,
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "@antora/cli": "^3.0.0-rc.2",
+    "@antora/site-generator-default": "^3.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embassy-rs/embassy-book.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/embassy-rs/embassy-book/issues"
+  },
+  "homepage": "https://github.com/embassy-rs"
+}
